@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code or the dataset, please cite the thesis."
+title: "Local Retrieval Augmented Generation with Large Language Models on Extensive Text Corpora"
+authors:
+  - family-names: "Kučera"
+    given-names: "Jakub"
+type: software
+repository-code: "https://github.com/jakub-kucera/czech-legal-rag"
+url: "https://hdl.handle.net/10467/122664"
+keywords:
+  - retrieval-augmented generation
+  - large language models
+  - legal NLP
+  - Czech
+preferred-citation:
+  type: thesis
+  thesis-type: "Master's thesis"
+  title: "Local Retrieval Augmented Generation with Large Language Models on Extensive Text Corpora"
+  authors:
+    - family-names: "Kučera"
+      given-names: "Jakub"
+  institution:
+    name: "Czech Technical University in Prague, Faculty of Information Technology"
+  year: 2025
+  url: "https://hdl.handle.net/10467/122664"
