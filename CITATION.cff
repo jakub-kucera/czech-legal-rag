@@ -7,6 +7,7 @@ authors:
 type: software
 repository-code: "https://github.com/jakub-kucera/czech-legal-rag"
 url: "https://hdl.handle.net/10467/122664"
+license: MIT
 keywords:
   - retrieval-augmented generation
   - large language models

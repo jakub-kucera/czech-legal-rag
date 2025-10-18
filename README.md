@@ -72,6 +72,10 @@ python examples/methods/run_exp_split.py --method_name crag-leave-1-out \
     --dataset_name nss_v2 --split test --gpu_id 0
 ```
 
+## License
+
+The code is under the [MIT license](LICENSE). The data files keep the licences of their sources. `CRAG/flashrag_format_data/` is derived from Meta's [CRAG benchmark](https://github.com/facebookresearch/CRAG) (CC BY-NC 4.0). `SACD/flashrag_format_data/sacd_questions.jsonl` is the [Hugging Face dataset](https://huggingface.co/datasets/kucerj56/czech-sacd-legal-questions) (CC BY 4.0).
+
 ## Citation
 
 ```bibtex
